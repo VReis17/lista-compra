@@ -1,0 +1,22 @@
+{
+  "name": "lista-compra",
+  "version": "1.0.0",
+  "description": "Trabalho de conclusao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VReis17/lista-compra.git"
+  },
+  "author": "Vitor Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VReis17/lista-compra/issues"
+  },
+  "homepage": "https://github.com/VReis17/lista-compra#readme",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
