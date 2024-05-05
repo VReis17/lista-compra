@@ -3,8 +3,7 @@
 <p align="justify">
 <img src="https://img.shields.io/static/v1?label=Node&message=18.8&color&style=for-the-badge&logo=nodedotjs"/>
 <img src="https://img.shields.io/static/v1?label=npm&message=9.8.1&color=crimson&style=for-the-badge&logo=npm"/>
-<img src="https://img.shields.io/static/v1?label=JavaScript&message=ECMAScript 2020
-&color=yellow&style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/static/v1?label=JavaScript&message=ECMAScript 2020&color=yellow&style=for-the-badge&logo=javascript"/>
 </p>
 
 >Status do Projeto:  :heavy_check_mark: Finalizado
