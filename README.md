@@ -9,11 +9,11 @@
 >Status do Projeto:  :heavy_check_mark: Finalizado
 
 ### Tópicos
-:small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
-:small_blue_diamond: [Problema](#problema)
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-:small_blue_diamond: [Como executar](#como-executar)
+- :small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
+- :small_blue_diamond: [Problema](#problema)
+- :small_blue_diamond: [Funcionalidades](#funcionalidades)
+- :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+- :small_blue_diamond: [Como executar](#como-executar)
 
 ## Descrição do projeto
 
